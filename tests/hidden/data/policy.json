@@ -1,0 +1,9 @@
+{
+  "site": "Former gasworks, Salford",
+  "limit_mg_kg": 300.0,
+  "minimum_precision": 0.88,
+  "minimum_recall": 0.92,
+  "split_check_tolerance": 0.22,
+  "corrected_tolerance": 0.44,
+  "samples_over_limit_as_reported": 66
+}

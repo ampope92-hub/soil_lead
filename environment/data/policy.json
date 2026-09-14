@@ -1,0 +1,9 @@
+{
+  "site": "Allotments, Bristol east",
+  "limit_mg_kg": 200.0,
+  "minimum_precision": 0.9,
+  "minimum_recall": 0.9,
+  "split_check_tolerance": 0.15,
+  "corrected_tolerance": 0.3,
+  "samples_over_limit_as_reported": 172
+}
